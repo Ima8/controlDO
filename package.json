@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "do-wrapper": "^3.5.0",
+    "jsonfile": "^2.2.3"
+  }
+}
