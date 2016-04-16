@@ -2,7 +2,7 @@ var jsonfile = require('jsonfile')
 var file = 'data.json'
 var DigitalOcean = require('do-wrapper'),
   api = new DigitalOcean(
-    '4bb1dadaa692e943ce38558859feb0af9259fde695a79b3961001e6c259560c7', 10);
+    '896952869bca4c084252c1446a9a902063585e7397773ded4a44a896a4f556dd', 10);
 
 function createDroplet(name, size) {
   api.dropletsCreate({
